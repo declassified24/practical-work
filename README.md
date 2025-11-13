@@ -41,8 +41,9 @@ docker --version
 docker-compose --version
 
 Сохраните скриншот командной строки с выводом всех трёх команд.
-/declassified24/practical-work/edit/develop/README.md
-![Image alt](https://github.com/declassified24/{practical-work}/blob/{branch}/{develop}/31.png)
+github.com/declassified24/practical-work/blob/develop/images/31.png
+![Screenshot](https://github.com/declassified24/practical-work/blob/develop/images/31.png)
+
 5. Создание рабочей директории
 Создайте папку для проекта:
 # Переход на диск E:
@@ -135,4 +136,5 @@ git remote -v
 docker ps
 # Проверка файлов в папке
 ls
+
 
